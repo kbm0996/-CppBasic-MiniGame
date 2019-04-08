@@ -2,7 +2,7 @@
 ## 📢 개요
  지문과 그에 따른 선택지에 따라 다양한 결말을 맞이하는 아주 간단한 텍스트 게임. 파일로부터 데이터를 읽어와 게임을 설정할 수 있다
  
-  ![capture](https://github.com/kbm0996/Simple-Text-Simulation-Game/blob/master/GIF.gif?raw=truee)
+  ![capture](https://github.com/kbm0996/Practice-MiniGames/blob/master/ReadFileExample-TextSimulation/figure/run.gif)
   
   **figure 1. Text Simulation (animated gif)*  
   
