@@ -1,4 +1,4 @@
-#ifndef __CONFIG_H__
+Ôªø#ifndef __CONFIG_H__
 #define __CONFIG_H__
 
 // HEADER
@@ -14,8 +14,8 @@
 extern WCHAR g_chMap[df_MAP_HEIGHT][df_MAP_WIDTH];
 
 /* PIECE */
-#define df_PLAYER1_PIECE L'°‹'
-#define df_PLAYER2_PIECE L'°€'
+#define df_PLAYER1_PIECE L'‚óè'
+#define df_PLAYER2_PIECE L'‚óã'
 
 /* LOGIC */
 #define df_KEY_LEFT		0x4b
