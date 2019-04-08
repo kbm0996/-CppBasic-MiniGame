@@ -27,7 +27,7 @@
   
   - '3' 입력시 '***'이 Loop마다 3칸씩 우측으로 이동하고 화면 끝에 닿으면 사라진다.
   
-  ![capture](https://github.com/kbm0996/Object-Oriented-Code-Example/blob/master/capture.gif?raw=true)
+  ![capture](https://github.com/kbm0996/Practice-MiniGames/blob/master/OOPExample-StarObject/figure/capture.gif)
   
   **figure 1. StarObject (animatied gif)*
 
@@ -35,7 +35,7 @@
 ## 📐 워크플로우
  객체지향형 프로그램의 구조와 작동 순서
 
-  ![workflow](https://github.com/kbm0996/Object-Oriented-Code-Example/blob/master/flowchart.jpg?raw=true)
+  ![workflow](https://github.com/kbm0996/Practice-MiniGames/blob/master/OOPExample-StarObject/figure/flowchart.jpg)
   
   **figure 2. Workflow*
 
