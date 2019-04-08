@@ -8,7 +8,7 @@
  간단한 오목 게임. _config.h의 define들을 변경하면 말(piece)의 모양, 판(map)의 넓이 등을 변경할 수 있다.
 커서의 위치는 방향키를 입력하여 제어 가능하며, 엔터 입력 시 말(piece)을 놓음과 동시에 상대방에게 차례(turn)을 넘긴다.
 
-  ![capture](https://github.com/kbm0996/Procedural-Code-Example/blob/master/capture.jpg?raw=true)
+  ![capture](https://github.com/kbm0996/Practice-MiniGames/blob/master/ProceduralProgrammingExample-Gomok/figure/run.jpg)
   
   **figure 1. Gomoku*
 
